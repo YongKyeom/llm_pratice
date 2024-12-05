@@ -1,0 +1,14 @@
+numpy
+requests
+openai
+langchain
+langchain-openai
+python-dotenv
+streamlit
+arxiv
+PyPDF
+ipython
+pinecone
+langchain-pinecone
+streamlit
+langchain_text_splitters
